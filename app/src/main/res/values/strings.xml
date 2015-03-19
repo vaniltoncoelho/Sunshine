@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="max_temp">28º</string>
+    <string name="min_temp">23º</string>
+    <string name="description">Hoje, 22 de Fevereiro</string>
+    <string name="partly_cloudy_day">partly-cloudy-day</string>
+</resources>
